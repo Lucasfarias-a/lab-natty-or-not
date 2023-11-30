@@ -2,9 +2,9 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+> Woooow! Olha só isso 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Lucas Farias aqui, Analista de Suporte de T.I e aspirante a desenvolvedor de software! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a explorar o universo das IAs Generativas, conectando-se com a potencialidade dessas incríveis tendências tecnológicas!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
